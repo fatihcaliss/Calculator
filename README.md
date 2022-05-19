@@ -1,4 +1,4 @@
-# Calculator
+# Calculator (Neumorphic Design)
 
 [Click here to see webpage..](https://fatihcaliss.github.io/Calculator/)
 
