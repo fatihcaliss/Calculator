@@ -57,7 +57,7 @@ input{
 .equal:hover {
     background-color: rgba(0,0,0,.1);
 }
-.equal:avtive {
+.equal:active {
     box-shadow: 5px 5px 12px #ffff,
                    -5px -5px 12px rgba(0,0,0,.16); 
 }
