@@ -9,7 +9,7 @@
 * I tried  <b>Neumorphic</b> design You can see interesting designs in this [link](https://codepen.io/myacode/pen/PoqQQNM).
 * I can use <b>box-shadow</b> property now.I recommend you to try.
 
-![gif]([https://github.com/fatihcaliss/Calculator/blob/master/calculater.PNG](https://github.com/fatihcaliss/Calculator/blob/master/calculatorAnimation.gif?raw=true))
+![gif](https://github.com/fatihcaliss/Calculator/blob/master/calculater.PNG?raw=true)
 
 
 
