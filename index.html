@@ -16,7 +16,7 @@
 
             <div class="calculator">
                 <input type="text" placeholder="0" id='output-screen'>
-                <button onclick="clear()" class="btn">Cl</button>
+                <button onclick="Clear()" class="btn">Cl</button>
                 <button onclick="del()" class="btn">DEL</button>
                 <button onclick="display('%')" class="btn">%</button>
                 <button onclick="display('/')" class="btn">/</button>
@@ -57,7 +57,7 @@
                     alert('Invalid')
                 }
             }
-            function clear() { 
+            function Clear() { 
                 outputScreen.value = "" ; 
             }
             function del() {
