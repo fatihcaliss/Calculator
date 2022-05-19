@@ -34,7 +34,7 @@
                 <button onclick="display('+')" class="btn">+</button>
                 <button onclick="display('.')" class="btn">.</button>
                 <button onclick="display('0')" class="btn">0</button>
-                <button onclick="calculate()" class='equal' id="btns">=</button>
+                <button onclick="Calculate()" class='equal' id="btns">=</button>
             </div>
 
 
@@ -48,7 +48,7 @@
                 outputScreen.value += num; 
             }
         
-            function calculate() {
+            function Calculate() {
                 try { 
                     outputScreen.value = eval(outputScreen.value); 
                 }
