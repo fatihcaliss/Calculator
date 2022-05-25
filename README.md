@@ -1,6 +1,6 @@
 # Calculator (Neumorphic Design)
 
-[Click here to see webpage..](https://fatihcaliss.github.io/Calculator/)
+[Click here to see on browser..](https://fatihcaliss.github.io/Calculator/)
 
 
 * I tried to learn and use <b>CSS Grid</b>.
