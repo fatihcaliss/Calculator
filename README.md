@@ -1,8 +1,6 @@
-# Calculator (Neumorphic Design)
+# :point_right: [Calculator (Neumorphic Design)](https://fatihcaliss.github.io/Calculator/) <hr>
 
-[Click here to see on browser..](https://fatihcaliss.github.io/Calculator/)
-
-
+<b> HTML, CSS and JS; </b> <br> <br>
 ✔ I used <b>CSS Grid</b>.<br>
 ✔ I am developing my JavaScript skills and this project is good example for exercise. <br>
 ✔ I learned  <b>eval</b> function and why we should do not use this function. You can learn more information in this [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval).<br>
